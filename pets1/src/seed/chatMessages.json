@@ -1,0 +1,30 @@
+[
+  {
+    "id": "chatmsg_001",
+    "groupId": "chatgroup_001",
+    "senderId": "user_customer1",
+    "text": "Hello, I want to confirm my appointment.",
+    "createdAt": "2025-12-30T19:05:00Z"
+  },
+  {
+    "id": "chatmsg_002",
+    "groupId": "chatgroup_001",
+    "senderId": "user_clinicOwner",
+    "text": "Sure, your appointment is confirmed for Jan 5.",
+    "createdAt": "2025-12-30T19:06:00Z"
+  },
+  {
+    "id": "chatmsg_003",
+    "groupId": "chatgroup_002",
+    "senderId": "user_customer2",
+    "text": "Do I need to bring treats for training?",
+    "createdAt": "2025-12-30T20:05:00Z"
+  },
+  {
+    "id": "chatmsg_004",
+    "groupId": "chatgroup_002",
+    "senderId": "user_trainerOwner",
+    "text": "Yes, please bring your dog’s favorite treats.",
+    "createdAt": "2025-12-30T20:06:00Z"
+  }
+]

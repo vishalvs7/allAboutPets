@@ -1,0 +1,25 @@
+[
+  {
+    "id": "clinic_001",
+    "userId": "user_clinicOwner",
+    "name": "Happy Paws Veterinary",
+    "location": "Ghaziabad",
+    "services": [
+      {
+        "id": "service_vaccination",
+        "name": "Vaccination",
+        "description": "Basic pet vaccination package",
+        "price": 500,
+        "duration": 30
+      },
+      {
+        "id": "service_checkup",
+        "name": "General Checkup",
+        "price": 300,
+        "duration": 20
+      }
+    ],
+    "contact": "9876543210",
+    "createdAt": "2025-12-30T18:00:00Z"
+  }
+]

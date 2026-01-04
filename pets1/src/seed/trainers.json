@@ -1,0 +1,19 @@
+[
+  {
+    "id": "trainer_001",
+    "userId": "user_trainerOwner",
+    "name": "Fit Pets Training",
+    "location": "Delhi",
+    "specialties": ["obedience", "agility"],
+    "services": [
+      {
+        "id": "service_obedience",
+        "name": "Obedience Training",
+        "price": 800,
+        "duration": 60
+      }
+    ],
+    "contact": "9123456780",
+    "createdAt": "2025-12-30T18:00:00Z"
+  }
+]

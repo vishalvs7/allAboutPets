@@ -1,0 +1,26 @@
+[
+  {
+    "id": "appointment_001",
+    "userId": "user_customer1",
+    "serviceId": "service_vaccination",
+    "providerType": "clinic",
+    "providerId": "clinic_001",
+    "date": "2026-01-05T10:00:00Z",
+    "status": "pending",
+    "notes": "Bring vaccination card",
+    "fee": 500,
+    "createdAt": "2025-12-30T18:00:00Z"
+  },
+  {
+    "id": "appointment_002",
+    "userId": "user_customer2",
+    "serviceId": "service_obedience",
+    "providerType": "trainer",
+    "providerId": "trainer_001",
+    "date": "2026-01-06T15:00:00Z",
+    "status": "confirmed",
+    "notes": "Dog is 6 months old",
+    "fee": 800,
+    "createdAt": "2025-12-30T18:30:00Z"
+  }
+]

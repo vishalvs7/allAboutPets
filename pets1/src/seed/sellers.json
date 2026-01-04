@@ -1,0 +1,27 @@
+[
+  {
+    "id": "seller_001",
+    "userId": "user_sellerOwner",
+    "storeName": "Pet Supplies Hub",
+    "products": [
+      {
+        "id": "product_food",
+        "name": "Dog Food Pack",
+        "description": "Nutritious dry food for adult dogs",
+        "price": 1200,
+        "stock": 50,
+        "category": "Food"
+      },
+      {
+        "id": "product_toy",
+        "name": "Chew Toy",
+        "description": "Durable chew toy for puppies",
+        "price": 300,
+        "stock": 100,
+        "category": "Toys"
+      }
+    ],
+    "contact": "9988776655",
+    "createdAt": "2025-12-30T18:00:00Z"
+  }
+]
